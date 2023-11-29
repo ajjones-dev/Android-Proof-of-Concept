@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "net.thedevdad.proofofconcept"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "net.thedevdad.proofofconcept"
